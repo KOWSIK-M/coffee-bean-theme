@@ -1,11 +1,38 @@
 {
   "name": "coffee-bean",
   "displayName": "Coffee Bean",
-  "description": "A perfect theme for coffee addicts",
+  "description": "A perfect theme for coffee addicts.",
   "version": "0.0.1",
+  "publisher": "CoffeeBean",
+  "icon": "icon/coffee_bean.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KOWSIK-M/coffee-bean-theme"
+  },
   "engines": {
     "vscode": "^1.96.0"
   },
+  "keywords": [
+    "theme",
+    "themes",
+    "coffee",
+    "coffee bean",
+    "coffee bean theme",
+    "bean",
+    "bean theme",
+    "brown theme",
+    "brown",
+    "coffee-bean",
+    "gold",
+    "kowsik",
+    "medam",
+    "medam kowsik",
+    "coffee dark",
+    "dark coffee bean",
+    "capuccino",
+    "capuccino coffee",
+    "milk"
+  ],
   "categories": [
     "Themes"
   ],
