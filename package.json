@@ -1,0 +1,21 @@
+{
+  "name": "coffee-bean",
+  "displayName": "Coffee Bean",
+  "description": "A perfect theme for coffee addicts",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Coffee Bean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Coffee Bean-color-theme.json"
+      }
+    ]
+  }
+}
