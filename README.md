@@ -28,7 +28,8 @@ A soothing, minimal, and eye-friendly theme inspired by the rich hues of coffee 
 
 ## **Preview**
 
-![Coffee Bean Theme Preview](./preview/preview1.png)  
+![Coffee Bean Theme Preview](./preview/preview1.png)
+
 ![Another Preview](./preview/preview2.png)
 
 ---
